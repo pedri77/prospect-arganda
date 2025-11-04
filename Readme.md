@@ -17,3 +17,11 @@ Detecta nuevos registros y envía un correo con las novedades usando la API de G
 
 ---
 
+
+---
+
+## 📅 Automatización
+
+Puedes automatizar su ejecución:
+- Con **Google Colab Pro Scheduler**
+- O con un flujo **n8n** o **Google Apps Script** que lance la notebook por URL.
