@@ -1,0 +1,7 @@
+# Archivos sensibles
+client_secret.json
+__pycache__/
+*.pyc
+*.pkl
+.env
+*.ipynb_checkpoints
