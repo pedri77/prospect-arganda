@@ -17,14 +17,3 @@ Detecta nuevos registros y envía un correo con las novedades usando la API de G
 
 ---
 
-## 🧱 Estructura del proyecto
-
-prospect-arganda/
-── notebooks/
-
- └── Prospeccion_Arganda.ipynb
-── utils/
- └── email_utils.py
-── requirements.txt
-── README.md
-── .gitignore
